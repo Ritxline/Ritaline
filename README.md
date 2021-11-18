@@ -1,1 +1,1 @@
-[Khaos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kh4oss)](https://github-readme-stats.vercel.app/api?username=Kh4oss&show_icons=true&theme=radical)
+![Axioma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kh4oss&show_icons=true&theme=radical)
